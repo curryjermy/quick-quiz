@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curryjermy/quick-quiz.git"
+  },
+  "author": "khari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curryjermy/quick-quiz/issues"
+  },
+  "homepage": "https://github.com/curryjermy/quick-quiz#readme"
+}
